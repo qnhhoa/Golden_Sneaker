@@ -6,7 +6,8 @@
     "fe template"
   ],
   "scripts": {
-    "start": "gulp serve"
+    "start": "gulp serve",
+    "deploy": "surge"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
